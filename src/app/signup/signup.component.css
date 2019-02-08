@@ -1,0 +1,36 @@
+.tag {
+    color: white;
+    margin-left: 978px;
+}
+.margin {
+    margin-left: 10px;
+    float: left;
+    margin-top: 15px;
+}
+.margin2 {
+    position: relative;
+    right: 14px;
+}
+.margin3 {
+    position: relative;
+    left: 20px;
+}
+.margin4 {
+    position: relative;
+    left: 40px;
+}
+.width {
+    width: 207%;
+}
+.width2 {
+    width: 106%;
+}
+.topbar {
+    background: black;
+    margin: 0px auto;
+    color: white;
+    height: 60px;
+    padding: 13px 5px;
+    font-size: 20px;
+
+}
